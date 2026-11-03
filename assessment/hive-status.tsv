@@ -1,0 +1,7 @@
+hive_id	apiary	threshold_mites_per_300	accepted_washes	clear_washes	alert_washes	first_alert_at	latest_accepted_at	latest_wash_id	status
+H-ALPHA	North Meadow	6	2	1	1	2026-04-08T08:15:00Z	2026-04-08T08:15:00Z	W102	ACTION_REQUIRED
+H-BRAVO	North Meadow	9	3	2	1	2026-04-09T09:10:00Z	2026-04-16T09:00:00Z	W113	ACTION_REQUIRED
+H-CEDAR	South Orchard	5	1	0	1	2026-04-03T10:00:00Z	2026-04-03T10:00:00Z	W105	ACTION_REQUIRED
+H-DELTA	South Orchard	12	1	1	0	-	2026-04-12T11:30:00Z	W111	MONITOR
+H-ECHO	Ridge Yard	4	2	1	1	2026-04-14T12:00:00Z	2026-04-21T12:00:00Z	W117	ACTION_REQUIRED
+H-FOXTROT	Ridge Yard	7	0	0	0	-	-	-	NO_VALID_WASH
